@@ -1,0 +1,25 @@
+body{
+background-color:rgb(159, 88, 226);
+background-image:linear-gradient(rgb(79, 183, 194),yellow);
+background-image:url("fondo.jpg");
+}
+h1{
+    color:rgb(238, 254, 255);
+    font-family:Arial;
+    font-weight 100px;
+}
+h2{
+    color:rgb(0, 0, 0);
+    font-family: tahoma;
+    font-style: oblique;
+    font-weight: 100px;
+}
+div{
+    border-color: aquamarine;
+    border: 10px solid grey;
+    width: 300px;
+    padding:50px;
+    margin: 100px;
+    background-color: blueviolet;
+    boder-radius: 100px;
+}
